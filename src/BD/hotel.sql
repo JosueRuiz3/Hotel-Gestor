@@ -55,5 +55,6 @@ insert into habitacion VALUES (5, 2, 150000, "DISPONIBLE");
 insert into persona values("5-0432-0608", "Andy Josue Ruiz Diaz","64060470");
 
 
+select * from cliente;
 
 
